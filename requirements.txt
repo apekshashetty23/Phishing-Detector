@@ -3,8 +3,4 @@ pandas
 numpy
 scikit-learn
 joblib
-matplotlib
-seaborn
 xgboost
-tensorflow
-shap
